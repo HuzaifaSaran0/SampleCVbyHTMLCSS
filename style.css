@@ -1,0 +1,31 @@
+body{
+    width: 520px;
+    height: 1285px;
+    align-items: center;
+    margin: 0 auto;
+    background-color: #fb9200;
+    padding: 0 50px 70px 30px;
+    border: 5px solid black;
+}
+#contact{
+    width: 520px;
+    height: 200px;
+    align-items: center;
+    margin: 0 auto;
+    background-color: #fb9200;
+    padding: 0 50px 70px 30px;
+    border: 5px solid black;
+}
+
+#hobby{
+width: 520px;
+height: 200px;
+align-items: center;
+margin: 0 auto;
+background-color: #fb9200;
+padding: 0 50px 70px 30px;
+border: 5px solid black;
+}
+html{
+    background-color: aliceblue;
+}
